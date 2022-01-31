@@ -1,5 +1,5 @@
 
-<p align="center"> Olá, Sou o Felipe e criei esse novo perfil para ficar pro dentro de novos projetos e acompanhar novos códigos.
+<p align="center"> Olá, sou o Felipe e criei esse novo perfil para ficar pro dentro de novos projetos e acompanhar novos códigos.
 
 
 
