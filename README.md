@@ -5,7 +5,7 @@
 
 <p align="center"> 尋求知識的人。 比批評的人更聰明
 <p align="center"> 
-<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/921402732840108033/937799371674759208/giphy_1.gif" /></a>
+<a href="https://www.youtube.com/watch?v=wYZux3BMc5k" target="blank"><img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/921402732840108033/937799371674759208/giphy_1.gif" /></a>
 
 
 <p align="center"> Redes Sociais:
