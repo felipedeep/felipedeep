@@ -5,7 +5,7 @@
 
 <p align="center"> 尋求知識的人。 比批評的人更聰明
 <p align="center"> 
-<a href="https://discord.gg/KvskfrdFUN" target="blank"><img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/921402732840108033/937799371674759208/giphy_1.gif" /></a>
+<a href="" target="blank"><img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/921402732840108033/937799371674759208/giphy_1.gif" /></a>
 
 
 <p align="center"> Redes Sociais:
