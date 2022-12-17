@@ -9,5 +9,5 @@
 
 
 <p align="center"> 
-<a href="https://discord.gg/fama" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978490707188781096/982475321280442468/DiscordDevelopmentIcon.png" alt="discord" height="60" width="60"/></a>
+<a href="https://discord.gg/fama" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1044670698779574352/1053726726385057822/famayellow.png" alt="discord" height="60" width="60"/></a>
 </p>
