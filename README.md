@@ -9,5 +9,5 @@
 
 
 <p align="center"> 
-<a href="" target="blank"><img align="center" src="" alt="discord" height="60" width="60"/></a>
+<a href="" target="blank"><img align="center" src="" alt="🦇" height="60" width="60"/></a>
 </p>
